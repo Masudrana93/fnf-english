@@ -80,3 +80,12 @@ color: lightgrey;
     width: 100%;
     height: auto;
   }
+
+/* Lesson-1-speaking side navbar design start  */
+  .side-nav-bg{
+    border-radius: 35px 0 35px 0;
+  }
+  .lesson-body-design{
+    border-radius:0 35px 0 35px;
+  }
+/* Lesson-1-speaking side navbar design end  */
