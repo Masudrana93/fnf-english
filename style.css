@@ -25,7 +25,7 @@ body{
     color: #0a0d14 !important;
 }
 .dropdown-item:hover{
-    background: linear-gradient(to right, #8B00F8, #5603E5);
+    background: linear-gradient(to right, #8B00F8, #5603E5) !important;
     color: white !important;
 }
 
@@ -45,7 +45,7 @@ body{
 
     
 .footer-bg{
-    background-color:#0a0d14 ;
+    background: linear-gradient(to right, #8B00F8, #5603E5);
     
 }
 
@@ -57,6 +57,9 @@ color: lightgrey;
 
 /* Home Page Section One  */
 
+.first-heading-train{
+ background-color: #8B00F8;
+}
 .bodyBg-color{
     background-color: #0A0A0A;
 }
